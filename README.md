@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sourav r. thakur
+- 👋 Hi, I’m @sourav ranjan thakur
 - 👀 I’m interested in data analytics, business solutions, and innovative tech tools.
 - 🌱 I’m currently learning ................................
 - 💞️ I’m looking to collaborate on projects related to data-driven decision-making, business intelligence, and digital marketing solutions.
